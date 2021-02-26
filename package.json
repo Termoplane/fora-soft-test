@@ -1,5 +1,6 @@
 {
   "name": "client",
+  "homepage": "https://termoplane.github.io/fora-soft-test/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
