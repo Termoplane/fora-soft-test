@@ -6,7 +6,7 @@ import "./infoBar.css"
 
 const InfoBar = ({ users, room }) => {
   const copyToClipboard = (e) => {
-    let text=`https://603918f5105c8a09b20caeb0--stoic-kare-1f426c.netlify.app/join?room=${room}`
+    let text=`https://termoplane.github.io/fora-soft-test/join?room=${room}`
     var textField = document.createElement('textarea')
     textField.innerText = text
     document.body.appendChild(textField)
