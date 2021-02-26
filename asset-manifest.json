@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.a56196c5.chunk.css",
-    "main.js": "/static/js/main.115cc3f5.chunk.js",
-    "main.js.map": "/static/js/main.115cc3f5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.900dd88b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.900dd88b.js.map",
-    "static/css/2.1e58ee36.chunk.css": "/static/css/2.1e58ee36.chunk.css",
-    "static/js/2.deb52338.chunk.js": "/static/js/2.deb52338.chunk.js",
-    "static/js/2.deb52338.chunk.js.map": "/static/js/2.deb52338.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.1e58ee36.chunk.css.map": "/static/css/2.1e58ee36.chunk.css.map",
-    "static/css/main.a56196c5.chunk.css.map": "/static/css/main.a56196c5.chunk.css.map",
-    "static/js/2.deb52338.chunk.js.LICENSE.txt": "/static/js/2.deb52338.chunk.js.LICENSE.txt"
+    "main.css": "/fora-soft-test/static/css/main.a56196c5.chunk.css",
+    "main.js": "/fora-soft-test/static/js/main.115cc3f5.chunk.js",
+    "main.js.map": "/fora-soft-test/static/js/main.115cc3f5.chunk.js.map",
+    "runtime-main.js": "/fora-soft-test/static/js/runtime-main.83f5943d.js",
+    "runtime-main.js.map": "/fora-soft-test/static/js/runtime-main.83f5943d.js.map",
+    "static/css/2.1e58ee36.chunk.css": "/fora-soft-test/static/css/2.1e58ee36.chunk.css",
+    "static/js/2.fa183b91.chunk.js": "/fora-soft-test/static/js/2.fa183b91.chunk.js",
+    "static/js/2.fa183b91.chunk.js.map": "/fora-soft-test/static/js/2.fa183b91.chunk.js.map",
+    "index.html": "/fora-soft-test/index.html",
+    "static/css/2.1e58ee36.chunk.css.map": "/fora-soft-test/static/css/2.1e58ee36.chunk.css.map",
+    "static/css/main.a56196c5.chunk.css.map": "/fora-soft-test/static/css/main.a56196c5.chunk.css.map",
+    "static/js/2.fa183b91.chunk.js.LICENSE.txt": "/fora-soft-test/static/js/2.fa183b91.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.900dd88b.js",
+    "static/js/runtime-main.83f5943d.js",
     "static/css/2.1e58ee36.chunk.css",
-    "static/js/2.deb52338.chunk.js",
+    "static/js/2.fa183b91.chunk.js",
     "static/css/main.a56196c5.chunk.css",
     "static/js/main.115cc3f5.chunk.js"
   ]
