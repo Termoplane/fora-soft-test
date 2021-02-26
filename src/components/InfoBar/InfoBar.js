@@ -3,10 +3,13 @@ import { Badge, notification } from 'antd'
 import { CopyOutlined } from '@ant-design/icons';
 
 import "./infoBar.css"
+import { useHistory } from 'react-router';
 
 const InfoBar = ({ users, room }) => {
+  let history = useHistory()
   const copyToClipboard = (e) => {
-    let text=`https://termoplane.github.io/fora-soft-test/join?room=${room}`
+    console.log(history);
+    let text=`localhost:3000/join?room=${room}`
     var textField = document.createElement('textarea')
     textField.innerText = text
     document.body.appendChild(textField)
