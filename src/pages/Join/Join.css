@@ -1,0 +1,11 @@
+.outerContainer {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: #1a1a1d;
+}
+
+.loginForm {
+  margin-top: auto;
+  margin-bottom: auto;
+}
