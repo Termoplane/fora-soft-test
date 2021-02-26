@@ -7,7 +7,7 @@ import "./ChatRoom.css";
 
 import queryString from "query-string";
 
-const ENDPOINT = "http://localhost:5000/";
+const ENDPOINT = "https://fora-soft-test-termoplan.herokuapp.com/";
 
 let socket;
 
